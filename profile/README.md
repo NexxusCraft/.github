@@ -26,4 +26,4 @@ If you encounter any issues or have questions, feel free to reach out to our ded
 Get ready to embark on an incredible Minecraft journey with us! See you in the game!
 
 Best regards,
-The Minecraft Network Team
+The NexxusCraft Network Team
