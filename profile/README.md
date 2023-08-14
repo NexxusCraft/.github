@@ -6,7 +6,7 @@
 We're thrilled to have you join our vibrant Minecraft community! Whether you're a seasoned explorer or just starting your blocky adventure, you're in for an amazing journey.
 
 ## About Us
-At [NexxusCraft.net], we're dedicated to providing a top-tier gaming experience for players of all skill levels. Our network features a variety of game modes, each offering unique challenges and opportunities for fun.
+At **NexxusCraft.net**, we're dedicated to providing a top-tier gaming experience for players of all skill levels. Our network features a variety of game modes, each offering unique challenges and opportunities for fun.
 
 ## Discord Community
 Join our **Discord** server to connect with fellow players, stay updated on server events, and engage in lively discussions about all things Minecraft!
