@@ -1,4 +1,5 @@
 # Welcome to Our Minecraft Network! :sparkles:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ByteMCNetzwerk&label=Profile%20views&color=e6a40b&style=flat" /> </p>
 
 ![Minecraft Network Logo](insert_logo_url_here)
 
