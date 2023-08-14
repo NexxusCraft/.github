@@ -1,5 +1,5 @@
 # Welcome to Our Minecraft Network! :sparkles:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NexxusCraft&label=Profile%20views&color=e6a40b&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NexxusCraft&label=Profile%20views&color=blue&style=for-the-badge	" /> </p>
 
 ![Minecraft Network Logo](insert_logo_url_here)
 
