@@ -5,7 +5,7 @@
 We're thrilled to have you join our vibrant Minecraft community! Whether you're a seasoned explorer or just starting your blocky adventure, you're in for an amazing journey.
 
 ## About Us
-At [Minecraft Network Name], we're dedicated to providing a top-tier gaming experience for players of all skill levels. Our network features a variety of game modes, each offering unique challenges and opportunities for fun.
+At [NexxusCraft.net], we're dedicated to providing a top-tier gaming experience for players of all skill levels. Our network features a variety of game modes, each offering unique challenges and opportunities for fun.
 
 ## Discord Community
 Join our **Discord** server to connect with fellow players, stay updated on server events, and engage in lively discussions about all things Minecraft!
@@ -13,7 +13,7 @@ Join our **Discord** server to connect with fellow players, stay updated on serv
 [![Join Our Discord](insert_discord_badge_url_here)](insert_discord_invite_link_here)
 
 ## How to Get Started
-1. **Join the Server:** Use `play.minecraftnetwork.com` in your Minecraft client to start your adventure with us.
+1. **Join the Server:** Use `play.nexxuscraft.net` in your Minecraft client to start your adventure with us.
 2. **Explore Game Modes:** Discover the range of exciting game modes we offer, from survival to creative and everything in between.
 3. **Connect with Players:** Whether you're collaborating on builds or competing in challenges, our community is full of friendly faces ready to play together.
 
@@ -22,9 +22,6 @@ To ensure everyone has a fantastic time, we have a set of guidelines in place. M
 
 ## Support
 If you encounter any issues or have questions, feel free to reach out to our dedicated support team. You can contact them on Discord or through our support ticket system on the website.
-
-## Stay Connected
-Stay updated with all the latest news, events, and updates by following us on Twitter [@MinecraftNet](insert_twitter_url_here).
 
 Get ready to embark on an incredible Minecraft journey with us! See you in the game!
 
