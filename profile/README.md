@@ -9,7 +9,7 @@ We're thrilled to have you join our vibrant Minecraft community! Whether you're 
 At **NexxusCraft.net**, we're dedicated to providing a top-tier gaming experience for players of all skill levels. Our network features a variety of game modes, each offering unique challenges and opportunities for fun.
 
 ## Discord Community
-Join our **Discord** server to connect with fellow players, stay updated on server events, and engage in lively discussions about all things Minecraft!
+Join our **Discord** server to connect with fellow players, stay updated on server events, and engage in lively discussions about all things!
 
 [![Join Our Discord](insert_discord_badge_url_here)](insert_discord_invite_link_here)
 
