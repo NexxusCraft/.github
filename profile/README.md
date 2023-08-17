@@ -11,7 +11,8 @@ At **NexxusCraft.net**, we're dedicated to providing a top-tier gaming experienc
 ## Discord Community
 Join our **Discord** server to connect with fellow players, stay updated on server events, and engage in lively discussions about all things!
 
-[![Join Our Discord](insert_discord_badge_url_here)](insert_discord_invite_link_here)
+[![Join Our Discord](https://discord.com/api/guilds/1131157730401456201/widget.png?style=banner2)](https://discord.gg/dHzA4VwWDZ)
+
 
 ## How to Get Started
 1. **Join the Server:** Use `play.nexxuscraft.net` in your Minecraft client to start your adventure with us.
